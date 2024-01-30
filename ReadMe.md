@@ -1,5 +1,5 @@
 # 💫 About Me:
-Apaixonado por dados;<br>Amante de Python e SQL;<br>Gerador de insights e KPI's;<br>Data Viz.
+Apaixonado por dados;<br>Amante de Python e SQL;<br>Analista de dados;<br>Gerador de insights e KPI's;<br>Data Viz.
 
 
 ## 🌐 Socials:
